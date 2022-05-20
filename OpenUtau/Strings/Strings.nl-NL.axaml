@@ -22,8 +22,6 @@
   <system:String x:Key="dialogs.export.savefirst">sla  projectbestand eerst op</system:String>
   <system:String x:Key="dialogs.messagebox.cancel">Annuleren</system:String>
   <system:String x:Key="dialogs.messagebox.no">Nee</system:String>
-  <system:String x:Key="dialogs.messagebox.ok">Ok</system:String>
-  <system:String x:Key="dialogs.messagebox.yes">Ja</system:String>
   <system:String x:Key="dialogs.noresampler.caption">Geen resampler</system:String>
   <system:String x:Key="dialogs.noresampler.message">Geen resampler! Zet je favoriete resampler exe of dll in de Resamplers map en kies het in Voorkeuren!</system:String>
   <system:String x:Key="dialogs.timesig.caption">Tijd Signatuur</system:String>
