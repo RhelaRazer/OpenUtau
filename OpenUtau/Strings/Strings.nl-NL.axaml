@@ -2,15 +2,15 @@
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
-  <!--<system:String x:Key="context.note.copy">Copy note</system:String>-->
-  <system:String x:Key="context.note.delete">noot verwijderen</system:String>
-  <!--<system:String x:Key="context.note.pasteparameters">Select and paste parameters</system:String>-->
+  <system:String x:Key="context.note.copy">Noot kopiëren</system:String>
+  <system:String x:Key="context.note.delete">Noot verwijderen</system:String>
+  <system:String x:Key="context.note.pasteparameters">Selecteer en plak parameters</system:String>
   <system:String x:Key="context.part.delete">Deel verwijderen</system:String>
-  <!--<system:String x:Key="context.part.gotofile">View file location</system:String>-->
+  <system:String x:Key="context.part.gotofile">Bestandslocatie weergeven</system:String>
   <system:String x:Key="context.part.rename">Naam wijzigen</system:String>
-  <!--<system:String x:Key="context.part.replaceaudio">Reselect audio file</system:String>-->
-  <!--<system:String x:Key="context.part.transcribe">Transcribe audio to create a note part</system:String>-->
-  <!--<system:String x:Key="context.part.transcribing">Transcribing</system:String>-->
+  <system:String x:Key="context.part.replaceaudio">Audiobestand opnieuw selecteren</system:String>
+  <system:String x:Key="context.part.transcribe">transcriber audio naar noot track</system:String>
+  <system:String x:Key="context.part.transcribing">Transcriberen..</system:String>
   <system:String x:Key="context.pitch.easein">Zak in</system:String>
   <system:String x:Key="context.pitch.easeinout">Zak in/uit</system:String>
   <system:String x:Key="context.pitch.easeout">Zak uit</system:String>
@@ -18,10 +18,10 @@
   <system:String x:Key="context.pitch.pointadd">Punt toevoegen</system:String>
   <system:String x:Key="context.pitch.pointdel">Punt wissen</system:String>
   <system:String x:Key="context.pitch.pointsnapprev">Snap terug naar vorige noot</system:String>
-  <!--<system:String x:Key="context.timeline.addtempo">Add tempo change at {0}</system:String>-->
-  <!--<system:String x:Key="context.timeline.addtimesig">Add time signature change</system:String>-->
-  <!--<system:String x:Key="context.timeline.deltempo">Delete tempo change at {0}</system:String>-->
-  <!--<system:String x:Key="context.timeline.deltimesig">Delete time signature change</system:String>-->
+  <system:String x:Key="context.timeline.addtempo">Tempowisseling toevoegen op {0}</system:String>
+  <system:String x:Key="context.timeline.addtimesig">Voeg maatsoort verandering</system:String>
+  <system:String x:Key="context.timeline.deltempo">Tempowijziging verwijderen op {0}</system:String>
+  <system:String x:Key="context.timeline.deltimesig">Maatsoort verandering verwijderen</system:String>
 
   <system:String x:Key="debug.clear">wegwissen</system:String>
   <system:String x:Key="debug.copylog">Kopieer Log</system:String>
